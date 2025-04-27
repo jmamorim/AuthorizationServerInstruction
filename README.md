@@ -64,7 +64,7 @@ Use that code to request an access token:
 
 **Request:**
 ```http
-POST https://proj1-cse5b6hadba7a8du.westeurope-01.azurewebsites.net/token?code=your_authorization_code
+GET https://proj1-cse5b6hadba7a8du.westeurope-01.azurewebsites.net/token?code=your_authorization_code
 ```
 
 ---
