@@ -28,7 +28,7 @@ username=your_username&password=your_password
 
 **Request:**
 ```http
-GET https://proj1-cse5b6hadba7a8du.westeurope-01.azurewebsites.net/authorize?response_type=code&client_id=your_client_id&redirect_uri=https://yourapp.com/callback&scope=openid&state=xyz
+GET https://proj1-cse5b6hadba7a8du.westeurope-01.azurewebsites.net/authorize?response_type=code&client_id=your_client_id&redirect_uri=https://yourapp.com/callback&scope=public&state=xyz
 ```
 **Query Parameters:**
 - `response_type` (must be `code`)
