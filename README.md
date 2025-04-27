@@ -66,7 +66,7 @@ Use that code to request an access token:
 ```http
 GET https://proj1-cse5b6hadba7a8du.westeurope-01.azurewebsites.net/token?code=your_authorization_code
 ```
-
+You will receive a json with the token contents on Access_Token more instructions will be below.
 ---
 
 ## 6. How Should I Use All of This?
